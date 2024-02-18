@@ -1,7 +1,7 @@
 <br>
 <h2 align="center">Introduction</h2>
 
-Welcome! I'm Yazan Haddad and I'm currently studying <a href="[url](https://lassonde.yorku.ca/academics/software-engineering)">Software Engineering</a> at York University in Toronto. 
+Welcome! I'm Yazan Haddad and I'm currently studying <a href="https://lassonde.yorku.ca/academics/software-engineering">Software Engineering</a> at York University in Toronto. 
 
 
 <br>
