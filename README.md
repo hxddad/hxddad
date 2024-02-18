@@ -1,13 +1,12 @@
-<img width="100%" src="https://raw.githubusercontent.com/pmbechard/pmbechard/main/github_banner.png" alt="Peyton Bechard">
-
 <br>
 <h2 align="center">Introduction</h2>
 
-My name is Peyton Bechard and I am a self-taught developer with about 2 years of experience. I'm currently looking to make the transition from CS education to a software developer role. Have a look through my repositories and feel free to reach out if you want to discuss anything that you see here.
+Welcome! I'm Yazan Haddad and I'm currently studying <a href="[url](https://lassonde.yorku.ca/academics/software-engineering)">Software Engineering</a> at York University in Toronto. 
+
 
 <br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pmbechard&theme=blue-green">
+  <img src="https://github-readme-stats.vercel.app/api?username=hxddad&theme=blue-green">
 </div>
 <br>
 
