@@ -1,6 +1,7 @@
 <h2 align="center">Introduction</h2>
 
-Welcome! I'm Yazan Haddad and I'm currently studying <a href="https://lassonde.yorku.ca/academics/software-engineering">Software Engineering</a> at York University in Toronto. I'm currently trying to make the most of my degree by learning new things and building innovative and cool projects here. If you have any questions or comments about my projects and repositories, feel free to shoot a message!
+Welcome! I'm Yazan Haddad and I'm currently studying <a href="https://lassonde.yorku.ca/academics/software-engineering">Software Engineering</a> at York University in Toronto. I'm currently trying to make the most of my degree by learning new things and building innovative and cool projects here. If you have any questions or comments about my projects and repositories, feel free to shoot a message! Also, check this following out: <a href="https://nohello.net/en/" target="_blank">NoHello.net</a> to enhance and better communicate with developers or anybody online in chat.
+
 
 <br>
 <div align="center">
