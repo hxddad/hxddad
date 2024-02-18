@@ -29,7 +29,7 @@ Welcome! I'm Yazan Haddad and I'm currently studying <a href="https://lassonde.y
 
 <br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pmbechard&theme=blue-black">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hxddad&theme=blue-black">
 </div>
 <br>
 
