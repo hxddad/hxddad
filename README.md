@@ -39,7 +39,7 @@ Welcome! I'm Yazan and I'm currently studying <a href="https://lassonde.yorku.ca
 
 - 🏥 I made a <a href="https://github.com/hxddad/COVID-19-Screening-Assessment">COVID-19 Screening Assessment</a> in Java and MATLAB that asks the user screening questions plus a temperature test for a fever with a report given at the end.
 
-- 🥡 In a team of five (in-progress), we are building <a href="https://github.com/hxddad/HungryLions">HungryLions</a>, an application that looks for dining places across York University's Keele and Glendon campuses based on dietary restrictions, prices, reviews, cultural cuisine, etc.
+- 🥡 In a team of five, we are building <a href="https://github.com/hxddad/HungryLions">HungryLions</a>, an application that looks for dining places across York University's Keele and Glendon campuses based on dietary restrictions, prices, reviews, cultural cuisine, etc.
 
 ...More to come!
 
