@@ -35,7 +35,7 @@ Welcome! I'm Yazan and I'm currently studying <a href="https://lassonde.yorku.ca
 <br>
 
 <br>
-<h2 align="center">My Recent Projects</h2>
+<h2 align="center">My Notable Projects</h2>
 
 - 🏥 I made a <a href="https://github.com/hxddad/COVID-19-Screening-Assessment">COVID-19 Screening Assessment</a> in Java and MATLAB that asks the user screening questions plus a temperature test for a fever with a report given at the end.
 
