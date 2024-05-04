@@ -1,11 +1,9 @@
 <h2 align="center">Hello World!</h2>
 I'm Yazan and I'm currently studying <a href="https://lassonde.yorku.ca/academics/software-engineering">Software Engineering</a> at York University in Toronto. I'm also ambitious to make the most of my degree by learning new things and building innovative and cool projects here. If you have any questions or comments about my projects and repositories, feel free to shoot a message! Also, take a moment to explore <a href="https://nohello.net/en/" target="_blank">NoHello.net</a> and <a href="https://dontasktoask.com/" target="_blank">Don'tAskToAsk.com</a>. 
-<br>
 
-<div align="center">
-  
+<br>
+<div align="center">  
   <img src="https://github-readme-stats.vercel.app/api?username=hxddad&theme=blue-green">
-  
 </div>
 <br>
 
