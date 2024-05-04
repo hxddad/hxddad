@@ -1,16 +1,6 @@
 <h2 align="center">Hello World!</h2>
 I'm Yazan and I'm currently studying <a href="https://lassonde.yorku.ca/academics/software-engineering">Software Engineering</a> at York University in Toronto. I'm also ambitious to make the most of my degree by learning new things and building innovative and cool projects here. If you have any questions or comments about my projects and repositories, feel free to shoot a message! Also, take a moment to explore <a href="https://nohello.net/en/" target="_blank">NoHello.net</a> and <a href="https://dontasktoask.com/" target="_blank">Don'tAskToAsk.com</a>. 
 
-<br>
-<style>
-        .spacer {
-            margin-top: 20px; /* Adjust the value to increase or decrease the space */
-        }
-    </style>
-<div align="center">  
-  <img src="https://github-readme-stats.vercel.app/api?username=hxddad&theme=blue-green">
-</div>
-<br>
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
