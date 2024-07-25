@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/hxddad/hxddad/master/Hi.gif" width="30px" height="30px">, I'm Yazan H</h1>
 
-<p align="center" width="150px">I'm currently a 3rd Year Software Engineering (B.Eng) at York University in Toronto!/p>
+<p align="center" width="150px">I'm currently a 3rd Year Software Engineering (B.Eng) at York University in Toronto!</p>
 
 <p align="center"><b>Visitor's Count</b></p>
 <p align="center"><img src="https://profile-counter.glitch.me/%7Bhxddad%7D/count.svg" alt="visitor badge"/></p>
