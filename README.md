@@ -1,4 +1,3 @@
-<p align="center"><img src="https://raw.githubusercontent.com/hxddad/hxddad/master/cover-thompson.png"></p>
 <p align="center"><img src="https://raw.githubusercontent.com/hxddad/hxddad/master/header.png"></p>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/hxddad/hxddad/master/Hi.gif" width="30px" height="30px">, I'm Yazan H</h1>
