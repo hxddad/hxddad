@@ -9,9 +9,6 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hxddad&layout=compact&hide=TSQL&theme=chartreuse-dark"></p>
 <!-- <p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=hxddad&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" width="400"></p> 
 <p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=hxddad&theme=chartreuse-dark"></p> -->
-
-### :link: &nbsp;Connect with me
-
 <p align="center">
 <a href="https://linkedin.com/in/hxddad"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:haddad.yazan117@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
