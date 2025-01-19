@@ -1,11 +1,11 @@
-<h1 align="center">hi 👋, i'm yazan haddad</h1>
+<h1 align="center">Hi 👋, I'm Yazan Haddad</h1>
 <h3 align="center">an aspiring developer from toronto 🇨🇦</h3>
 
-- 📫 how to reach me **haddad.yazan117@gmail.com**
+- 📫 How to reach me **haddad.yazan117@gmail.com**
 
-- 📄 my resume [https://github.com/hxddad/resume/blob/main/yazan_haddad_resume.pdf](https://github.com/hxddad/resume/blob/main/yazan_haddad_resume.pdf)
+- 📄 My resume [https://github.com/hxddad/resume/blob/main/yazan_haddad_resume.pdf](https://github.com/hxddad/resume/blob/main/yazan_haddad_resume.pdf)
 
-- ⚡ fun fact **i currently have 520+ hours on Halo: MCC**
+- ⚡ Fun fact **i currently have 520+ hours on Halo: MCC**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
