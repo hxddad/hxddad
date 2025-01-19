@@ -1,6 +1,7 @@
-<div style="text-align: center;">
+<p align="center">
   <img src="matrix.gif" alt="Matrix GIF">
-</div>
+</p>
+
 
 <h1 align="center">Hi 👋, I'm Yazan Haddad</h1>
 <h3 align="center">An aspiring developer from Toronto 🇨🇦</h3>
