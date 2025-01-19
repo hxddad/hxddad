@@ -6,9 +6,6 @@
 <h1 align="center">Hi 👋, I'm Yazan Haddad</h1>
 <h3 align="center">An aspiring developer from Toronto 🇨🇦</h3>
 
-
-- 📫 How to reach me: **haddad.yazan117@gmail.com**
-
 - 📄 Check out my resume: [here](https://github.com/hxddad/resume/blob/main/yazan_haddad_resume.pdf)
 
 - ⚡ Fun fact: **I currently have 520+ hours on Halo: MCC**
