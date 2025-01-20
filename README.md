@@ -6,9 +6,9 @@
 <h1 align="center">Hi 👋, I'm Yazan</h1>
 <h3 align="center">An aspiring developer from Toronto 🇨🇦</h3>
 
-- 📚 I'm a 3rd year [Software Engineering (B.Eng)](https://lassonde.yorku.ca/academics/software-engineering){:target="_blank"} student at York University in Toronto!
-- 📄 Check out my resume [here](https://github.com/hxddad/resume/blob/main/yazan_haddad_resume.pdf){:target="_blank"}, as I'm currently looking for Summer 2025 internships.
-- ⚡ Fun fact: **I currently have 520+ hours on Halo: MCC**  
+- 📚 I'm a 3rd year <a href="https://lassonde.yorku.ca/academics/software-engineering" target="_blank">Software Engineering (B.Eng)</a> student at York University in Toronto!
+- 📄 Check out my resume: <a href="https://github.com/hxddad/resume/blob/main/yazan_haddad_resume.pdf" target="_blank">here</a>, I'm currently looking for an internship for Summer 2025.
+- ⚡ Fun fact: **I currently have 520+ hours on Halo: MCC**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
