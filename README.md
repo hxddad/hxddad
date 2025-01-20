@@ -6,7 +6,7 @@
 <h1 align="center">Hi 👋, I'm Yazan Haddad</h1>
 <h3 align="center">An aspiring developer from Toronto 🇨🇦</h3>
 
-- 📚 I'm currently studying Software Engineering (B.Eng) at the [York University](https://lassonde.yorku.ca/) in Toronto, Ontario!
+- 📚 I'm currently studying [Software Engineering (B.Eng)](https://lassonde.yorku.ca/academics/software-engineering) at the York University in Toronto, Ontario!
 - 📄 Check out my resume: [here](https://github.com/hxddad/resume/blob/main/yazan_haddad_resume.pdf)
 - ⚡ Fun fact: **I currently have 520+ hours on Halo: MCC**
   
