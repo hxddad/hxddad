@@ -3,7 +3,7 @@
 </p>
 
 
-<h1 align="center">Hi 👋, I'm Yazan</h1>
+<h1 align="center">Hi  <img src="hello.gif" alt="wave">, I'm Yazan</h1>
 <h3 align="center">An aspiring developer from Toronto 🇨🇦</h3>
 
 - 📚 I'm a 3rd year [Software Engineering (B.Eng)](https://lassonde.yorku.ca/academics/software-engineering){:target="_blank"} student at York University in Toronto!
