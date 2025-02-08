@@ -1,14 +1,15 @@
 <p align="center">
   <img src="matrix.gif" alt="Matrix GIF">
 </p>
-```cpp
-#include <hxddad>
+```c++
+import <hxddad>
+import <string>
 class hxddad {       
   public:             
-    string name->"yazan haddad";        
-    string school->"york university";
-    program->"software engineering";
-    graduating->"spring 2026";
+    std::string name = "yazan haddad";        
+    std::string school = "york university";
+    std::string program = "software engineering";
+    std::string graduating = "spring 2026";
 };
 ```
 
