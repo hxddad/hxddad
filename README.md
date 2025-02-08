@@ -1,10 +1,9 @@
 <p align="center">
   <img src="matrix.gif" alt="Matrix GIF">
 </p>
-```
-cpp
-import <hxddad>
-import <string>
+```cpp
+#include <hxddad>
+#include <string>
 class hxddad {       
   public:             
     std::string name = "yazan haddad";        
