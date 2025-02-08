@@ -3,6 +3,7 @@
 </p>
 ```cpp
 #include <string>
+
 class hxddad {       
   public:             
     std::string name = "yazan haddad";        
@@ -10,4 +11,3 @@ class hxddad {
     std::string program = "software engineering";
     std::string graduating = "spring 2026";
 };
-```
