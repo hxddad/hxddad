@@ -1,6 +1,7 @@
 <p align="center">
   <img src="matrix.gif" alt="Matrix GIF">
 </p>
+
 ```cpp
 #include <string>
 
