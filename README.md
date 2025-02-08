@@ -2,46 +2,45 @@
   <img src="matrix.gif" alt="Matrix GIF">
 </p>
 
-<pre><code class="language-cpp">
-#include &lt;iostream&gt;
-#include &lt;vector&gt;
-#include &lt;string&gt;
-using namespace std;
+<div style="background-color: #f4f4f4; padding: 10px; border-radius: 5px; font-family: monospace;">
+<pre style="color: #d63384;">#include &lt;iostream&gt;</pre>
+<pre style="color: #d63384;">#include &lt;vector&gt;</pre>
+<pre style="color: #d63384;">#include &lt;string&gt;</pre>
+<pre style="color: #0000ff;">using namespace std;</pre>
 
-class Person {
-private:
-    string name;
-    string occupation;
-    vector&lt;string&gt; interests;
-    string motto;
+<pre style="color: #008000;">class Person {</pre>
+<pre style="color: #008000;">private:</pre>
+<pre style="color: #0000ff;">    string name;</pre>
+<pre style="color: #0000ff;">    string occupation;</pre>
+<pre style="color: #0000ff;">    vector&lt;string&gt; interests;</pre>
+<pre style="color: #0000ff;">    string motto;</pre>
 
-public:
-    // Constructor
-    Person(string name, string occupation, vector&lt;string&gt; interests, string motto) {
-        this-&gt;name = name;           // Use 'this' to refer to the object's attributes
-        this-&gt;occupation = occupation;
-        this-&gt;interests = interests;
-        this-&gt;motto = motto;
-    }
+<pre style="color: #008000;">public:</pre>
+<pre style="color: #008000;">    // Constructor</pre>
+<pre style="color: #0000ff;">    Person(string name, string occupation, vector&lt;string&gt; interests, string motto) {</pre>
+<pre style="color: #0000ff;">        this-&gt;name = name;</pre>
+<pre style="color: #0000ff;">        this-&gt;occupation = occupation;</pre>
+<pre style="color: #0000ff;">        this-&gt;interests = interests;</pre>
+<pre style="color: #0000ff;">        this-&gt;motto = motto;</pre>
+<pre style="color: #0000ff;">    }</pre>
 
-    // Method to display bio
-    void bio() {
-        cout &lt;&lt; "👋 Hi, I'm " &lt;&lt; this-&gt;name &lt;&lt; ", a " &lt;&lt; this-&gt;occupation &lt;&lt; " who loves ";
-        for (size_t i = 0; i &lt; this-&gt;interests.size(); ++i) {
-            cout &lt;&lt; this-&gt;interests[i];
-            if (i &lt; this-&gt;interests.size() - 1) cout &lt;&lt; ", ";
-        }
-        cout &lt;&lt; ". My motto: \"" &lt;&lt; this-&gt;motto &lt;&lt; "\"." &lt;&lt; endl;
-    }
-};
+<pre style="color: #008000;">    // Method to display bio</pre>
+<pre style="color: #0000ff;">    void bio() {</pre>
+<pre style="color: #0000ff;">        cout &lt;&lt; "👋 Hi, I'm " &lt;&lt; this-&gt;name &lt;&lt; ", a " &lt;&lt; this-&gt;occupation &lt;&lt; " who loves ";</pre>
+<pre style="color: #0000ff;">        for (size_t i = 0; i &lt; this-&gt;interests.size(); ++i) {</pre>
+<pre style="color: #0000ff;">            cout &lt;&lt; this-&gt;interests[i];</pre>
+<pre style="color: #0000ff;">            if (i &lt; this-&gt;interests.size() - 1) cout &lt;&lt; ", ";</pre>
+<pre style="color: #0000ff;">        }</pre>
+<pre style="color: #0000ff;">        cout &lt;&lt; ". My motto: \"" &lt;&lt; this-&gt;motto &lt;&lt; "\"." &lt;&lt; endl;</pre>
+<pre style="color: #0000ff;">    }</pre>
+<pre style="color: #008000;">};</pre>
 
-int main() {
-    Person me("Yazan", "Developer", {"coding", "open source", "AI"}, "Keep it simple, but significant.");
-    me.bio();
-    return 0;
-}
-</code></pre>
-
+<pre style="color: #0000ff;">int main() {</pre>
+<pre style="color: #0000ff;">    Person me("Yazan", "Developer", {"coding", "open source", "AI"}, "Keep it simple, but significant.");</pre>
+<pre style="color: #0000ff;">    me.bio();</pre>
+<pre style="color: #0000ff;">    return 0;</pre>
+<pre style="color: #0000ff;">}</pre>
+</div>
 <!--
 <h1 align="center">Hi👋, I'm Yazan</h1>
 <h3 align="center">An aspiring developer from Toronto 🇨🇦</h3>
