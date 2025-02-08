@@ -1,7 +1,7 @@
 <p align="center">
   <img src="matrix.gif" alt="Matrix GIF">
 </p>
-```c++
+```cpp
 import <hxddad>
 import <string>
 class hxddad {       
@@ -11,7 +11,6 @@ class hxddad {
     std::string program = "software engineering";
     std::string graduating = "spring 2026";
 };
-```
 
 <!--
 <h1 align="center">Hi👋, I'm Yazan</h1>
