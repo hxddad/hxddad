@@ -2,12 +2,25 @@
   <img src="matrix.gif" alt="Matrix GIF"> 
 </p>
 
-<h1 align="center">Hi👋, I'm Yazan</h1>
- 
-<h3 align="center">An aspiring developer from Toronto 🇨🇦</h3>
-- 📚 I'm a **3rd-year** [Software Engineering (B.Eng)](https://lassonde.yorku.ca/academics/software-engineering) student at York University in Toronto!  
-- 📄 Check out my **[resume](https://github.com/hxddad/resume/blob/main/yazan_haddad_resume.pdf)**—I'm currently looking for a **Summer 2025 internship**.  
-- ⚡ Fun fact: **I have 520+ hours on Halo: MCC!**  
+<h3 align="center">🚀 Aspiring Software Engineer from Toronto 🇨🇦</h3>
+
+- 🎓 **3rd-year** [Software Engineering (B.Eng)](https://lassonde.yorku.ca/academics/software-engineering) student @ York University
+- 🔍 Actively seeking **Summer 2025 internship** opportunities
+- 📄 Explore my **[resume](https://github.com/hxddad/resume/blob/main/yazan_haddad_resume.pdf)** for more details
+- �‍💻 Passionate about clean code and efficient systems
+- 🎮 **Fun fact:** I've logged 520+ hours in Halo: MCC (and counting!)
+
+<p align="center">
+  <a href="https://linkedin.com/in/yourprofile">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://github.com/hxddad">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+</p>
 
  
 <h3 align="left">Languages and Tools I'm Familiar With:</h3>
