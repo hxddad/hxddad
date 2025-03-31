@@ -1,3 +1,4 @@
+```json
 {
   "profile": {
     "greeting": "Hello, World! 👋",
@@ -35,3 +36,4 @@
   },
   "footer": "⚡ Fun fact: I turn coffee into code"
 }
+```
