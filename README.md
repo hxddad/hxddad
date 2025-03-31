@@ -6,21 +6,8 @@
 
 - 🎓 **3rd-year** [Software Engineering (B.Eng)](https://lassonde.yorku.ca/academics/software-engineering) student @ York University.
 - 🔍 Actively seeking **Summer 2025 internship** opportunities.
-- 📄 Explore my **[resume](https://github.com/hxddad/resume/blob/main/yazan_haddad_resume.pdf)** for more details
-- 🎮 **Fun fact:** I've logged 520+ hours in Halo: MCC (and counting!)
-
-<p align="center">
-  <a href="https://linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://github.com/hxddad">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-</p>
-
+- 📄 Explore my **[resume](https://github.com/hxddad/resume/blob/main/yazan_haddad_resume.pdf)** for more details.
+- 🎮 **Fun fact:** I've logged 520+ hours in Halo: MCC (and counting!).
  
 <h3 align="left">Languages and Tools I'm Familiar With:</h3>
  
