@@ -1,31 +1,12 @@
 <p align="center">
-
- 
-  <img src="matrix.gif" alt="Matrix GIF">
- 
+  <img src="matrix.gif" alt="Matrix GIF"> 
 </p>
- 
-
-# Hi 👋, I'm Yazan  
- 
-
-### An aspiring developer from Toronto 🇨🇦  
- 
-
- 
 
 <h1 align="center">Hi👋, I'm Yazan</h1>
  
-
 <h3 align="center">An aspiring developer from Toronto 🇨🇦</h3>
- 
-
 - 📚 I'm a **3rd-year** [Software Engineering (B.Eng)](https://lassonde.yorku.ca/academics/software-engineering) student at York University in Toronto!  
- 
-
 - 📄 Check out my **[resume](https://github.com/hxddad/resume/blob/main/yazan_haddad_resume.pdf)**—I'm currently looking for a **Summer 2025 internship**.  
- 
-
 - ⚡ Fun fact: **I have 520+ hours on Halo: MCC!**  
 
  
