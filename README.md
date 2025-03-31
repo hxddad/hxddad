@@ -4,10 +4,9 @@
 
 <h3 align="center">🚀 Aspiring Software Engineer from Toronto 🇨🇦</h3>
 
-- 🎓 **3rd-year** [Software Engineering (B.Eng)](https://lassonde.yorku.ca/academics/software-engineering) student @ York University
-- 🔍 Actively seeking **Summer 2025 internship** opportunities
+- 🎓 **3rd-year** [Software Engineering (B.Eng)](https://lassonde.yorku.ca/academics/software-engineering) student @ York University.
+- 🔍 Actively seeking **Summer 2025 internship** opportunities.
 - 📄 Explore my **[resume](https://github.com/hxddad/resume/blob/main/yazan_haddad_resume.pdf)** for more details
-- �‍💻 Passionate about clean code and efficient systems
 - 🎮 **Fun fact:** I've logged 520+ hours in Halo: MCC (and counting!)
 
 <p align="center">
