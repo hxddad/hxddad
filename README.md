@@ -1,15 +1,19 @@
 ```yaml
-name: yazan haddad
-location: toronto, ontario
-studying: software engineering (b.eng)
-university: yorku
+name: "Yazan Haddad 👨‍💻"
+location: "Toronto, Ontario 🇨🇦"
+studying: "Software Engineering 💻📘"
+university: "YorkU 🎓"
 
 interests:
-  - backend engineering
-  - computer security
-  - networks
-  - operating systems
-  - devops / sre
+  - "Backend Engineering 🛠️"
+  - "Computer Security 🔐"
+  - "Networks 🌐"
+  - "Operating Systems 🧠💾"
+  - "DevOps / SRE ⚙️📈"
 
-hobbies: ['gaming', 'reading', 'geography', 'music']
+hobbies:
+  - "Gaming 🎮"
+  - "Reading 📚"
+  - "Geography 🗺️"
+  - "Music 🎧"
 ```
