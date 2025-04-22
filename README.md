@@ -1,19 +1,15 @@
 ```yaml
-name: "Yazan Haddad 👨‍💻"
-location: "Toronto, Ontario 🇨🇦"
-studying: "Software Engineering 💻📘"
-university: "YorkU 🎓"
+name: yazan haddad
+location: toronto, ontario
+studying: software engineering
+university: yorku
 
 interests:
-  - "Backend Engineering 🛠️"
-  - "Computer Security 🔐"
-  - "Networks 🌐"
-  - "Operating Systems 🧠💾"
-  - "DevOps / SRE ⚙️📈"
+  - backend engineering
+  - computer security
+  - networks
+  - operating systems
+  - devops / sre
 
-hobbies:
-  - "Gaming 🎮"
-  - "Reading 📚"
-  - "Geography 🗺️"
-  - "Music 🎧"
+hobbies: ['gaming', 'reading', 'geography', 'music']
 ```
