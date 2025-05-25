@@ -1,6 +1,4 @@
 ```python
-#!/usr/bin/python
-
 class hxddad:
 
     def __init__(self):
